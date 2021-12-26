@@ -15,10 +15,10 @@
 
 Для обоих функций нужно указать следующие переменные среды:
 
--'BOT_TOKEN'
--'AWS_ACCESS_KEY_ID'
--'AWS_FOLDER_ID'
--'AWS_SECRET_ACCESS_KEY'
--'BUCKET'
+- 'BOT_TOKEN'
+- 'AWS_ACCESS_KEY_ID'
+- 'AWS_FOLDER_ID'
+- 'AWS_SECRET_ACCESS_KEY'
+- 'BUCKET'
 
 У бота также есть команда "/start" , которая устанавливает собеседника, которому бот будет отправлять вырезанные лица, и от которого будет слушать ответы.
